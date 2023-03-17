@@ -10,3 +10,38 @@
 
 
 ## How to Use
+ᏨᎾᎷᎷᎯᏁᎠᏕ : 
+
+```
+
+$  apt update && apt upgrade
+
+```
+
+$  apt install python
+
+```
+
+$  apt install git
+
+```
+
+$  git clone https://github.com/IlayTamvan/Report
+
+```
+
+$  cd Report
+
+```
+
+$  ls
+
+```
+
+$  unzip Report.zip
+
+```
+
+$  python2 Report.py
+
+```
